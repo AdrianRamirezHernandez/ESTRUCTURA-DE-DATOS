@@ -1,0 +1,7 @@
+C:\Users\Hugo\Desktop\ejercicios de clases codigos\ESTRUCTURA DE DATOS\OPERACIONESPILA\bin\Debug\OPERACIONESPILA.exe.config
+C:\Users\Hugo\Desktop\ejercicios de clases codigos\ESTRUCTURA DE DATOS\OPERACIONESPILA\bin\Debug\OPERACIONESPILA.exe
+C:\Users\Hugo\Desktop\ejercicios de clases codigos\ESTRUCTURA DE DATOS\OPERACIONESPILA\bin\Debug\OPERACIONESPILA.pdb
+C:\Users\Hugo\Desktop\ejercicios de clases codigos\ESTRUCTURA DE DATOS\OPERACIONESPILA\obj\Debug\OPERACIONESPILA.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\ejercicios de clases codigos\ESTRUCTURA DE DATOS\OPERACIONESPILA\obj\Debug\OPERACIONESPILA.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\ejercicios de clases codigos\ESTRUCTURA DE DATOS\OPERACIONESPILA\obj\Debug\OPERACIONESPILA.exe
+C:\Users\Hugo\Desktop\ejercicios de clases codigos\ESTRUCTURA DE DATOS\OPERACIONESPILA\obj\Debug\OPERACIONESPILA.pdb

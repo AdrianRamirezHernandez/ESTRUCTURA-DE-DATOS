@@ -1,0 +1,14 @@
+C:\Users\Hugo\Desktop\ejercicios de clases codigos\ESTRUCTURA DE DATOS\VoltearNombrePalindromo\bin\Debug\VoltearNombrePalindromo.exe.config
+C:\Users\Hugo\Desktop\ejercicios de clases codigos\ESTRUCTURA DE DATOS\VoltearNombrePalindromo\bin\Debug\VoltearNombrePalindromo.exe
+C:\Users\Hugo\Desktop\ejercicios de clases codigos\ESTRUCTURA DE DATOS\VoltearNombrePalindromo\bin\Debug\VoltearNombrePalindromo.pdb
+C:\Users\Hugo\Desktop\ejercicios de clases codigos\ESTRUCTURA DE DATOS\VoltearNombrePalindromo\obj\Debug\VoltearNombrePalindromo.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\ejercicios de clases codigos\ESTRUCTURA DE DATOS\VoltearNombrePalindromo\obj\Debug\VoltearNombrePalindromo.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\ejercicios de clases codigos\ESTRUCTURA DE DATOS\VoltearNombrePalindromo\obj\Debug\VoltearNombrePalindromo.exe
+C:\Users\Hugo\Desktop\ejercicios de clases codigos\ESTRUCTURA DE DATOS\VoltearNombrePalindromo\obj\Debug\VoltearNombrePalindromo.pdb
+C:\Users\Hugo\Desktop\ESTRUCTURAS DE DATOS\Codigo\VoltearNombrePalindromo\bin\Debug\VoltearNombrePalindromo.exe.config
+C:\Users\Hugo\Desktop\ESTRUCTURAS DE DATOS\Codigo\VoltearNombrePalindromo\bin\Debug\VoltearNombrePalindromo.exe
+C:\Users\Hugo\Desktop\ESTRUCTURAS DE DATOS\Codigo\VoltearNombrePalindromo\bin\Debug\VoltearNombrePalindromo.pdb
+C:\Users\Hugo\Desktop\ESTRUCTURAS DE DATOS\Codigo\VoltearNombrePalindromo\obj\Debug\VoltearNombrePalindromo.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\ESTRUCTURAS DE DATOS\Codigo\VoltearNombrePalindromo\obj\Debug\VoltearNombrePalindromo.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\ESTRUCTURAS DE DATOS\Codigo\VoltearNombrePalindromo\obj\Debug\VoltearNombrePalindromo.exe
+C:\Users\Hugo\Desktop\ESTRUCTURAS DE DATOS\Codigo\VoltearNombrePalindromo\obj\Debug\VoltearNombrePalindromo.pdb
