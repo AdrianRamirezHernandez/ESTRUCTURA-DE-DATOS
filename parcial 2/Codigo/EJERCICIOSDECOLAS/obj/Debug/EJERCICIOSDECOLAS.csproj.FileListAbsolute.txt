@@ -1,0 +1,7 @@
+C:\Users\Hugo\Desktop\ESTRUCTURAS DE DATOS\parcial 2\Codigo\EJERCICIOSDECOLAS\bin\Debug\EJERCICIOSDECOLAS.exe.config
+C:\Users\Hugo\Desktop\ESTRUCTURAS DE DATOS\parcial 2\Codigo\EJERCICIOSDECOLAS\bin\Debug\EJERCICIOSDECOLAS.exe
+C:\Users\Hugo\Desktop\ESTRUCTURAS DE DATOS\parcial 2\Codigo\EJERCICIOSDECOLAS\bin\Debug\EJERCICIOSDECOLAS.pdb
+C:\Users\Hugo\Desktop\ESTRUCTURAS DE DATOS\parcial 2\Codigo\EJERCICIOSDECOLAS\obj\Debug\EJERCICIOSDECOLAS.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\ESTRUCTURAS DE DATOS\parcial 2\Codigo\EJERCICIOSDECOLAS\obj\Debug\EJERCICIOSDECOLAS.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\ESTRUCTURAS DE DATOS\parcial 2\Codigo\EJERCICIOSDECOLAS\obj\Debug\EJERCICIOSDECOLAS.exe
+C:\Users\Hugo\Desktop\ESTRUCTURAS DE DATOS\parcial 2\Codigo\EJERCICIOSDECOLAS\obj\Debug\EJERCICIOSDECOLAS.pdb
