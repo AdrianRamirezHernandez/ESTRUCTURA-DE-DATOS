@@ -1,0 +1,48 @@
+@startuml
+title Diagrama de Flujo - Lista Simplemente Enlazada con Pila de Libres
+
+start
+
+:Inicio;
+:Operación = (Agregar o Eliminar);
+
+if (¿Es Agregar?) then (Sí)
+  :Solicitar dato a insertar;
+  :Obtener nodo libre de la pila (AllocateNode);
+
+  if (¿Hay nodo disponible?) then (Sí)
+    :Asignar valor al nodo;
+    :Establecer next = -1;
+
+    if (¿Lista vacía?) then (Sí)
+      :head = nodo;
+    else (No)
+      :Recorrer lista hasta el último nodo;
+      :next[último] = nodo;
+    endif
+
+    :Nodo agregado correctamente;
+  else (No)
+    :Mostrar mensaje "Sin espacio disponible";
+  endif
+
+else (No)
+  :Solicitar dato a eliminar;
+  :Buscar nodo con ese valor;
+
+  if (¿Nodo encontrado?) then (Sí)
+    if (¿Es la cabeza?) then (Sí)
+      :head = next[nodo];
+    else (No)
+      :next[anterior] = next[nodo];
+    endif
+    :Liberar nodo (FreeNode);
+    :Nodo eliminado correctamente;
+  else (No)
+    :Mostrar mensaje "Dato no encontrado";
+  endif
+endif
+
+:Mostrar estado actual de la lista;
+stop
+@enduml

@@ -1,0 +1,13 @@
+class COLA {
+  - Max: int
+  - Arreglo[] : Char 
+  -Frente:int
+  -Final: int
+  -tamano:int
+  +COLA( int Max)
+  +EstaLlena():bool
+  +EstaVacia():bool
+  +Insertar(char valor):void
+  +Eliminar():char
+  +Contiene(char valor):bool
+}

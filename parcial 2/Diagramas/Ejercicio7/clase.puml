@@ -1,0 +1,41 @@
+@startuml
+title Lista Simplemente Enlazada con Pila de Libres
+
+class StaticSinglyLinkedList<T> {
+  - T[] value
+  - int[] next
+  - int head
+  - int freeHead
+  - int capacity
+
+  + StaticSinglyLinkedList(capacity: int)
+  - InitializeFreeList(): void
+  - AllocateNode(): int
+  - FreeNode(idx: int): void
+  + AddLast(item: T): bool
+  + Remove(item: T): bool
+  + RemoveAt(position: int): bool
+  + ToString(): string
+  + DebugState(): string
+}
+
+note right of StaticSinglyLinkedList::value
+  Arreglo donde se guardan los datos
+end note
+
+note right of StaticSinglyLinkedList::next
+  Arreglo de enteros que indica el siguiente nodo
+end note
+
+note right of StaticSinglyLinkedList::freeHead
+  Apunta al primer nodo libre
+end note
+
+class Program {
+  + Main(): void
+}
+
+Program --> StaticSinglyLinkedList : usa
+
+@enduml
+
