@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\MetodoBurbuja1\MetodoBurbuja1\bin\Debug\MetodoBurbuja1.exe.config
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\MetodoBurbuja1\MetodoBurbuja1\bin\Debug\MetodoBurbuja1.exe
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\MetodoBurbuja1\MetodoBurbuja1\bin\Debug\MetodoBurbuja1.pdb
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\MetodoBurbuja1\MetodoBurbuja1\obj\Debug\MetodoBurbuja1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\MetodoBurbuja1\MetodoBurbuja1\obj\Debug\MetodoBurbuja1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\MetodoBurbuja1\MetodoBurbuja1\obj\Debug\MetodoBurbuja1.exe
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\MetodoBurbuja1\MetodoBurbuja1\obj\Debug\MetodoBurbuja1.pdb
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\MetodoBurbuja1\MetodoBurbuja1\obj\Debug\MetodoBurbuja1.exe.config
