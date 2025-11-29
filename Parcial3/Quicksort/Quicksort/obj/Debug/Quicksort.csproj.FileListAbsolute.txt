@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\Quicksort\Quicksort\bin\Debug\Quicksort.exe.config
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\Quicksort\Quicksort\bin\Debug\Quicksort.exe
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\Quicksort\Quicksort\bin\Debug\Quicksort.pdb
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\Quicksort\Quicksort\obj\Debug\Quicksort.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\Quicksort\Quicksort\obj\Debug\Quicksort.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\Quicksort\Quicksort\obj\Debug\Quicksort.exe
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\Quicksort\Quicksort\obj\Debug\Quicksort.pdb
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\Quicksort\Quicksort\obj\Debug\Quicksort.exe.config

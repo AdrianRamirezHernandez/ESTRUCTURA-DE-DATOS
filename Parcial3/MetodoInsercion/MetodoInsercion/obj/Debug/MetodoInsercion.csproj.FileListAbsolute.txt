@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\MetodoInsercion\MetodoInsercion\bin\Debug\MetodoInsercion.exe.config
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\MetodoInsercion\MetodoInsercion\bin\Debug\MetodoInsercion.exe
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\MetodoInsercion\MetodoInsercion\bin\Debug\MetodoInsercion.pdb
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\MetodoInsercion\MetodoInsercion\obj\Debug\MetodoInsercion.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\MetodoInsercion\MetodoInsercion\obj\Debug\MetodoInsercion.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\MetodoInsercion\MetodoInsercion\obj\Debug\MetodoInsercion.exe
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\MetodoInsercion\MetodoInsercion\obj\Debug\MetodoInsercion.pdb
+C:\Users\Administrator\Desktop\TRABAJOS\Parcial3-estructuras\MetodoInsercion\MetodoInsercion\obj\Debug\MetodoInsercion.exe.config
